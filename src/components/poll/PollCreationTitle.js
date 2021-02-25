@@ -10,7 +10,7 @@ function PollTitle({ title, onChange }) {
 						name='title'
 						onChange={onChange}
 						className='w-11/12 focus:outline-none focus:text-gray-600 p-2'
-						placeholder='Enter your title here'
+						placeholder='Enter your polls title here'
 						required
 					/>
 				</div>
