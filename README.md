@@ -25,7 +25,6 @@
 
 ### Clone repo to your local machine 
 
-
 ```bash
 git clone https://github.com/jarrodmalkovic/maze-solver.git
 ```
@@ -36,22 +35,18 @@ git clone https://github.com/jarrodmalkovic/maze-solver.git
 npm run install
 ```
 
-### Bundle the assets
+### Start the React development server
 
 ```bash
-npm run build
+npm run start
 ```
-
-### Run in browser
-
-Open the `index.html` located in the newly created `dist/webpack-4` folder in your browser
 
 ## 💻 Technologies Utilized
 
 - JavaScript
-- HTML/CSS
-- Webpack
-- Babel
+- React
+- Firebase
+- TailwindCSS
 - ESLint
 - Prettier
 - Deployed using Netlify
