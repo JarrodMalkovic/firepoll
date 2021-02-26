@@ -1,4 +1,4 @@
-<h1 align="center">Firepoll: creating instant, real-time polls using Firebase</h1>
+<h1 align="center">Firepoll: create instant, real-time polls</h1>
 
 <h3 align="center">
   <a href="https://mazesolver.xyz/">Visit the live app</a> |
@@ -8,7 +8,6 @@
 
 ![Tech logos](https://i.ibb.co/pWb31Wy/tech-info-maze-solver.png)
 
-![App Screenshot](https://i.ibb.co/fDkgDdD/maze-solver.gif)
 
 ## 📝 Table of contents
 
