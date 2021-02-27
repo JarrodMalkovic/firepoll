@@ -6,7 +6,7 @@
   <a href="https://github.com/jarrodmalkovic/maze-solver/issues">Request Feature</a> 
 </h3>
 
-![Tech logos](https://i.ibb.co/SV3W3hg/tech-info-firepoll.png)
+![Tech logos](https://i.ibb.co/xHfxGLP/tech-info-firepoll-2.png)
 
 
 ## 📝 Table of contents
