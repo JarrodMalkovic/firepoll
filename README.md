@@ -51,6 +51,10 @@ Project is created using:
 
 This project is licensed under the Unlicense License
 
-## 🙌 Acknowledgments
+<hr>
 
-Project inspired by [Computerphile's video on maze solving](https://www.youtube.com/watch?v=rop0W4QDOUI)
+<h3>
+  <a href="https://firepoll.xyz">Visit the live app</a> |
+  <a href="https://github.com/jarrodmalkovic/maze-solver/issues">Report Bug</a> |
+  <a href="https://github.com/jarrodmalkovic/maze-solver/issues">Request Feature</a> 
+</h3>
