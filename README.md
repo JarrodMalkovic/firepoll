@@ -41,6 +41,20 @@ npm run install
 npm run start
 ```
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td>Create Poll Page</td>
+     <td>Results Page</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://i.ibb.co/tD9QF3Q/firepoll-create-poll-page.png"/></td>
+    <td  valign="top"><img src="https://i.ibb.co/g4LVd6W/firepoll-results-page.png"/></td>
+  </tr>
+ </table>
+
+
 ## 💻 Technologies
 
 Project is created using:
