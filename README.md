@@ -41,15 +41,11 @@ npm run install
 npm run start
 ```
 
-## 💻 Technologies Utilized
+## 💻 Technologies
 
-- JavaScript
-- React
-- Firebase
-- TailwindCSS
-- ESLint
-- Prettier
-- Deployed using Netlify
+Project is created using:
+
+- JavaScript, React, Firebase, Tailwind CSS and deployed using Netlify
 
 ## ⚖️ License
 
