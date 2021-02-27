@@ -11,11 +11,11 @@
 
 ## 📝 Table of contents
 
-- [Features](#features)
-- [Run Locally](#run-locally)
-- [Technologies](#technologies)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Features](#-features)
+- [Run Locally](#-run-locally)
+- [Screenshots](#-screenshots)
+- [Technologies](#-technologies)
+- [License](#-license)
 
 ## ✨ Features
 
