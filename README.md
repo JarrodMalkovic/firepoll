@@ -1,7 +1,7 @@
 <h1 align="center">Firepoll: create instant, real-time polls</h1>
 
 <h3 align="center">
-  <a href="https://mazesolver.xyz/">Visit the live app</a> |
+  <a href="https://firepoll.xyz/">Visit the live app</a> |
   <a href="https://github.com/jarrodmalkovic/maze-solver/issues">Report Bug</a> |
   <a href="https://github.com/jarrodmalkovic/maze-solver/issues">Request Feature</a> 
 </h3>
