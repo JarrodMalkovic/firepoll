@@ -11,15 +11,10 @@
 
 ## 📝 Table of contents
 
-- [Features](#-features)
 - [Run Locally](#-run-locally)
 - [Screenshots](#-screenshots)
 - [Technologies](#-technologies)
 - [License](#-license)
-
-## ✨ Features
-
-- Feature list coming soon
 
 ## 🚀 Run Locally
 
